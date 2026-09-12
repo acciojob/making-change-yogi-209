@@ -11,7 +11,7 @@ const makeChange = (c) => {
 
 	const p=c;
 
-	return q,d,n,p;
+	return {q,d,n,p};
   // your name here
 };
 
